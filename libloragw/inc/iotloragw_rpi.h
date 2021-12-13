@@ -9,7 +9,7 @@
 #define _IOTGW_RPI_H_
 
 /* Human readable platform definition */
-#define DISPLAY_PLATFORM "IOTLoraGW + Rpi"
+#define DISPLAY_PLATFORM "IOTLGW RPi"
 
 /* parameters for native spi */
 #define SPI_SPEED		8000000
